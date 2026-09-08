@@ -1,0 +1,13 @@
+# 用語
+* ViewModel
+* Permission
+* Activity
+* AlertDialog
+* Fragment
+* Service
+* SharedPreferences
+* LinearLayout
+* TextBox
+* ConstraintLayout
+* ImageButton
+* RecyclerView
